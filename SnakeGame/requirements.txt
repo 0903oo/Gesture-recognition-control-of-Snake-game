@@ -1,0 +1,3 @@
+# 适配Python 3.13的核心依赖（无mediapipe）
+opencv-python>=4.12.0  # 最新稳定版，自带Haar级联
+numpy>=1.26.4          # 矩阵计算，OpenCV依赖
